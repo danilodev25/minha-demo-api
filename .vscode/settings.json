@@ -1,0 +1,9 @@
+{
+  "terminal.integrated.profiles.osx": {
+    "PowerShell": {
+      "path": "/opt/homebrew/bin/pwsh",
+      "args": ["-NoLogo"]
+    }
+  },
+  "terminal.integrated.defaultProfile.osx": "PowerShell"
+}
